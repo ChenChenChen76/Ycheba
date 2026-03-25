@@ -1,2 +1,2 @@
-# Ychebo
+# Ychebo$
 Dlya ychebi
